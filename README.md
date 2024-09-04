@@ -1,1 +1,1 @@
-# HackBio--Stage1-Molecular-Docking
+# HackBio-Stage1-MolecularDocking
