@@ -2,12 +2,16 @@
 # Artificial intelligence in drug discovery and development
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/
 
-## Authors ## (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
+## Authors (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nura (@uwais), Lewis Karani (@Karani)
 
-# GithubRepo: ## https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md
+# GithubRepo:
+https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md
 
 Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, fundamentally transforming every stage of drug discovery and development. AI's capacity to process vast datasets and identify patterns that elude human analysis is accelerating the identification of potential drug candidates, thereby shortening the traditionally lengthy and costly drug development process. The applications of AI in drug discovery today are vast(Paul D. et al., 2020).
-![68747470733a2f2f6c68372d72742e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e5864337173576f4637797345324c41537532765445477a3743376a5966644d69636a676e65306c43745056435a4135453351582d5a722d544b6f76447931347a676b6d61487](https://github.com/user-attachments/assets/7db1d35b-3654-4a0d-857c-af524789cc17)
+
+
+
+[68747470733a2f2f6c68372d72742e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e5864337173576f4637797345324c41537532765445477a3743376a5966644d69636a676e65306c43745056435a4135453351582d5a722d544b6f76447931347a676b6d61487](https://github.com/user-attachments/assets/7db1d35b-3654-4a0d-857c-af524789cc17)
 
 
 The integration of AI in drug discovery has enabled the identification of hit and lead compounds with unprecedented speed(Mak K. et al.,2019). Advanced algorithms, including machine learning (ML) models like deep neural networks (DNNs), can predict the biological activity of compounds, thereby refining the drug screening process and enhancing the accuracy of target validation. This is crucial in an industry where nine out of ten therapeutic molecules fail during clinical trials, often in the later, more expensive stages​(Beneke F. et al., 2019)​(Kalyane D. et al.,2020).
