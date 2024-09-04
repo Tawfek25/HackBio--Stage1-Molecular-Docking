@@ -9,8 +9,6 @@ https://github.com/lewis-karani/HackBio-2024/edit/main/Stage1.md
 
 Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, fundamentally transforming every stage of drug discovery and development. AI's capacity to process vast datasets and identify patterns that elude human analysis is accelerating the identification of potential drug candidates, thereby shortening the traditionally lengthy and costly drug development process. The applications of AI in drug discovery today are vast(Paul D. et al., 2020).
 
-
-
 [68747470733a2f2f6c68372d72742e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e5864337173576f4637797345324c41537532765445477a3743376a5966644d69636a676e65306c43745056435a4135453351582d5a722d544b6f76447931347a676b6d61487](https://github.com/user-attachments/assets/7db1d35b-3654-4a0d-857c-af524789cc17)
 
 
