@@ -12,7 +12,6 @@ Artificial Intelligence (AI) is dramatically transforming the pharmaceutical ind
 ![68747470733a2f2f6c68372d72742e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e5864337173576f4637797345324c41537532765445477a3743376a5966644d69636a676e65306c43745056435a4135453351582d5a722d544b6f76447931347a676b6d61487](https://github.com/user-attachments/assets/63cc099c-fa14-49ea-a488-165341973437)
 
 
-Picture1
 
 AI has significantly enhanced drug discovery by rapidly identifying hit and lead compounds (Mak K. et al., 2019). Advanced algorithms, including machine learning (ML) models such as deep neural networks (DNNs), predict the biological activity of compounds, refining drug screening and improving target validation. This is particularly important in an industry where nine out of ten therapeutic molecules fail in clinical trials, especially during the more expensive later stages (Beneke F. et al., 2019; Kalyane D. et al., 2020).
 
@@ -25,6 +24,7 @@ Predicting drug-target binding affinity (DTBA) is crucial for drug efficacy. AI-
 Despite its benefits, AI adoption in pharmaceuticals faces challenges. Implementing AI requires access to large, high-quality datasets, which are costly and difficult to obtain. There is also a need for skilled personnel to operate these advanced platforms and interpret the generated data. Nonetheless, the potential benefits of AI are driving significant investment, with projections suggesting substantial revenue growth in the sector (Lambert M.J, 2019; Research & Markets., 2019).
 
 The future of AI in pharmaceuticals looks promising, with advancements expected to lead to more personalized and effective treatments. As AI continues to evolve, its role in drug discovery and development will become increasingly central, transforming disease understanding and treatment (Paul D. et al., 2021).
+
 # References
 Paul D, Sanap G, Shenoy S, Kalyane D, Kalia K, Tekade RK. Artificial intelligence in drug discovery and development. Drug Discov Today. 2021 Jan;26(1):80-93.
 doi: 10.1016/j.drudis.2020.10.010. Epub 2020 Oct 21. PMID: 33099022; PMCID: PMC7577280.
