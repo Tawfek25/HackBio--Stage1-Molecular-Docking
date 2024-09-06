@@ -6,6 +6,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/
 
 ## GithubRepo:
 https://github.com/Tawfek25/HackBio-Stage1-DrugDevelopment
+## LinkedIn Post:
+https://www.linkedin.com/posts/tawfek-ahmed-a5aab4239_bioinformatics-drugdevelopment-hackbio-activity-7237782709882806272-c6zK?utm_source=share&utm_medium=member_android
 
 Artificial Intelligence (AI) is dramatically transforming the pharmaceutical industry, reshaping drug discovery and development at every stage. AI's ability to analyze vast datasets and detect patterns beyond human capability is speeding up the identification of potential drug candidates, thus reducing the traditionally lengthy and costly drug development process (Paul D. et al., 2020).
 
