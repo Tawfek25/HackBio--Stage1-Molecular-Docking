@@ -9,6 +9,7 @@ https://github.com/Tawfek25/HackBio-Stage1-DrugDevelopment
 ## LinkedIn Post:
 https://www.linkedin.com/posts/logy-khaled-biotech24_hackbio-ai-pharmaceuticals-activity-7238305393242763265-MuaX?utm_source=share&utm_medium=member_android
 
+## Introduction 
 Artificial Intelligence (AI) is dramatically transforming the pharmaceutical industry, reshaping drug discovery and development at every stage. AI's ability to analyze vast datasets and detect patterns beyond human capability is speeding up the identification of potential drug candidates, thus reducing the traditionally lengthy and costly drug development process (Paul D. et al., 2020).
 
 ![68747470733a2f2f6c68372d72742e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e5864337173576f4637797345324c41537532765445477a3743376a5966644d69636a676e65306c43745056435a4135453351582d5a722d544b6f76447931347a676b6d61487](https://github.com/user-attachments/assets/63cc099c-fa14-49ea-a488-165341973437)
@@ -28,23 +29,4 @@ Despite its benefits, AI adoption in pharmaceuticals faces challenges. Implement
 The future of AI in pharmaceuticals looks promising, with advancements expected to lead to more personalized and effective treatments. As AI continues to evolve, its role in drug discovery and development will become increasingly central, transforming disease understanding and treatment (Paul D. et al., 2021).
 
 # References
-Paul D, Sanap G, Shenoy S, Kalyane D, Kalia K, Tekade RK. Artificial intelligence in drug discovery and development. Drug Discov Today. 2021 Jan;26(1):80-93.
-doi: 10.1016/j.drudis.2020.10.010. Epub 2020 Oct 21. PMID: 33099022; PMCID: PMC7577280.
-
-Beneke F., Mackenrodt M.-O. Artificial intelligence and collusion. IIC Int. Rev. Intellectual Property Competition Law. 2019;50:109–134.
-
-Kalyane D. Artificial intelligence in the pharmaceutical sector: current scene and future prospect. In: Tekade Rakesh K., editor. The Future of Pharmaceutical Product Development and Research. Elsevier; 2020. pp. 73–107.
-
-Mak K.-K., Pichika M.R. Artificial intelligence in drug development: present status and future prospects. Drug Discovery Today. 2019;24:773–780.
-
-Öztürk H. DeepDTA: deep drug–target binding affinity prediction. Bioinformatics. 2018;34:i821–i829.
-
-Karimi M. DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks. Bioinformatics. 2019;35(18):3329–3338. 
-
-Rantanen J., Khinast J. The future of pharmaceutical manufacturing sciences. J. Pharm. Sci. 2015;104:3612–3638.
-
-Chan H.S. Advancing drug discovery via artificial intelligence. Trends Pharmacol. Sci. 2019;40(8):592–604.
-
-Research and Markets . Research and Markets; 2019. Global Growth Insight - Role of AI in the Pharmaceutical Industry 2018-2022: Exploring Key Investment Trends, Companies-to-Action, and Growth Opportunities for AI in the Pharmaceutical Industry.
-
-Lamberti M.J. A study on the application and use of artificial intelligence to support drug development. Clin. Ther. 2019;41:1414–1426.
+Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug discovery today, 26(1), 80–93. https://doi.org/10.1016/j.drudis.2020.10.010
