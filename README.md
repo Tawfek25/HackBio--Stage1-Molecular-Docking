@@ -26,6 +26,7 @@ Predicting drug-target binding affinity (DTBA) is crucial for drug efficacy. AI-
 
 Despite its benefits, AI adoption in pharmaceuticals faces challenges. Implementing AI requires access to large, high-quality datasets, which are costly and difficult to obtain. There is also a need for skilled personnel to operate these advanced platforms and interpret the generated data. Nonetheless, the potential benefits of AI are driving significant investment, with projections suggesting substantial revenue growth in the sector (Lambert M.J, 2019; Research & Markets., 2019).
 
+## Conclusion 
 The future of AI in pharmaceuticals looks promising, with advancements expected to lead to more personalized and effective treatments. As AI continues to evolve, its role in drug discovery and development will become increasingly central, transforming disease understanding and treatment (Paul D. et al., 2021).
 
 # References
